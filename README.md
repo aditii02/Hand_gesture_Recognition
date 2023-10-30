@@ -27,7 +27,7 @@ Step 2:Build the Fingers Counter
 Step 3:Visualize the Counted Fingers
 Step 4:Build the Hand Gesture Recognizer
 
-
+Note : Hand Gesture Task to be placed in the same directory as main.py
 Recognizing two hand gestures : victory and rock on:
 
 <img width="568" alt="Screen Shot 2023-10-30 at 3 24 40 PM" src="https://github.com/aditii02/Hand_gesture_Recognition/assets/38829128/1d771eb1-087e-4a8f-90e8-3bd6a2417bc2">
